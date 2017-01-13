@@ -1,6 +1,6 @@
 # Programmieren für Designer
 
-Informationen zum Kurs «Programmieren für Designer», © Josef Renner, 2016.
+Informationen zum Kurs «Programmieren für Designer», 
 
 ## Um was es in diesem Kurs geht
 
@@ -10,10 +10,11 @@ Informationen zum Kurs «Programmieren für Designer», © Josef Renner, 2016.
 
 ## Um was es in diesem Kurs nicht geht
 
-* Dogmen
 * Stilfragen
-* Korrekte Anwendung der Fachterminologie
 * Computer Science
+* Dogmen
+
+---
 
 ## Themenübersicht
 
@@ -41,9 +42,11 @@ Informationen zum Kurs «Programmieren für Designer», © Josef Renner, 2016.
     - Kommentare
     - Anführungszeichen
     - Wo sind geschweifte und eckige Klammern? Andere?
+    - Eingerückte Abschnitte, Hierarchie
 * Zufallsgenerator
 * Terminologie: Syntax, Operator, …
-* Benutzen der Dokumentation (sow. Python als auch Drawbot)
+* Benutzen der Python-Dokumentation
+* Benutzen der DrawBot-Dokumentation
 
 ### Grundlagen
 
@@ -71,8 +74,13 @@ Informationen zum Kurs «Programmieren für Designer», © Josef Renner, 2016.
 
 * Rune Madsen: [Programming Design Systems](https://programmingdesignsystems.com/)
 * [Inconvergent](http://inconvergent.net/)
-## Links
+
+## Ungeordnete Links
 
 * [sigrid calon](http://www.sigridcalon.nl/)
 * [Twitter: #sigridcalon](https://twitter.com/hashtag/sigridcalon?src=hash)
 * [Instagram: #risograph](https://www.instagram.com/explore/tags/risograph/)
+
+---
+
+© Josef Renner, 2016.
