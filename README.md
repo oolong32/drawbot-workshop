@@ -1,6 +1,6 @@
 # Programmieren für Designer
 
-Informationen zum Kurs «Programmieren für Designer», 
+Informationen zum Kurs «Programmieren für Designer».
 
 ## Um was es in diesem Kurs geht
 
@@ -80,6 +80,7 @@ Informationen zum Kurs «Programmieren für Designer»,
 * [sigrid calon](http://www.sigridcalon.nl/)
 * [Twitter: #sigridcalon](https://twitter.com/hashtag/sigridcalon?src=hash)
 * [Instagram: #risograph](https://www.instagram.com/explore/tags/risograph/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 ---
 
